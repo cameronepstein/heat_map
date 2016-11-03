@@ -1,0 +1,19 @@
+{
+  "name": "heat_map",
+  "version": "1.0.0",
+  "description": "A heatmap generator which takes an input area from the google maps api and generates clusters of random hotspots.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cameronepstein/heat_map.git"
+  },
+  "author": "cameronepstein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cameronepstein/heat_map/issues"
+  },
+  "homepage": "https://github.com/cameronepstein/heat_map#readme"
+}
