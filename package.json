@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cameronepstein/heat_map/issues"
   },
-  "homepage": "https://github.com/cameronepstein/heat_map#readme"
+  "homepage": "https://github.com/cameronepstein/heat_map#readme",
+  "dependencies": {
+    "heatmap.js": "^2.0.5"
+  }
 }
