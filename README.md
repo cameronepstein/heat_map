@@ -1,8 +1,8 @@
 # HEATMAP
 
-Version: ```1.0```
-Configuration: ```npm install```
-Local Server: ```npm start```
+Version: ```1.0```</p>
+Configuration: ```npm install```<p/>
+Local Server: ```npm start```<p/>
 
 A heatmap generator which takes an input area from the google maps api and generates clusters of random hotspots.
 
