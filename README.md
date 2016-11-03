@@ -1,8 +1,14 @@
 # HEATMAP
 
+Version: ```1.0```
+Configuration: ```npm install```
+Local Server: ```npm start```
+
 A heatmap generator which takes an input area from the google maps api and generates clusters of random hotspots.
 
 These maps could be used in data driven environments to coordinate research based on a users specified conditions.
+
+![Alt text](http://3.bp.blogspot.com/-5ecRBELlkaU/TxDJrdSLt2I/AAAAAAAAM_Q/bxEGDza7WWw/s523/mapsmania.gif)
 
 ## User Sories
 
