@@ -699,6 +699,9 @@ var Heatmap = (function HeatmapClosure() {
 
 })();
 
+var le = function() {
+  console.log('ooooooooooooooo');
+};
 
 // core
 var heatmapFactory = {
