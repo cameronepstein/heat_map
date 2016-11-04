@@ -18,11 +18,12 @@
       <div id="heatmapContainer">
       </div>
     </div>
-    <script src="./build/heatmap.js"></script>
+    <script src="./heatmap.js"></script>
     <script>
+    console.log(window);
       var domElement = document.getElementById( ".heatmapContainerWrapper" );
-      console.log(document);
       var heatmap = window.h337.create({
+        "container": document.getElementById("heatmapContainerWrapper"),
         "element": document.getElementById("heatmapContainerWrapper"),
          "radius" : 11,
          "opacity": 40,
